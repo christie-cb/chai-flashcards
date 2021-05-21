@@ -17,7 +17,7 @@ package(
         name="CLRS Flashcards 🧠🤑💯",
         image_url=BOT_IMAGE_URL,
         color="f1a2b3",
-        description="The secret to getting ahead is getting started.” – Mark Twain.",
+        description="'The secret to getting ahead is getting started.' – Mark Twain.",
         input_class=Bot,
      )
 )
