@@ -1,6 +1,6 @@
 # Create your own flashcard bot!
 
-Do you want powerful and effective flashcards at your disposal no matter where you are? Of course you do. Clone the repo and fill in the questions and answers you're dying to memorise.
+Do you want powerful and effective flashcards at your disposal, no matter where you are? Of course you do. Clone the repo and fill in the questions and answers you're dying to memorise.
 
 For more, check out the Medium article here: [COMING SOON].
 
