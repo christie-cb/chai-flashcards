@@ -1,6 +1,6 @@
 from chai_py import Metadata, package, upload_and_deploy, wait_for_deployment
 from chai_py import share_bot, set_auth
-from starter_bot import Bot
+from bot import Bot
 
 DEVELOPER_UID = None # Fill these in using the values from https://chai.ml/dev
 DEVELOPER_KEY = None # Fill these in using the values from https://chai.ml/dev
