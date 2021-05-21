@@ -19,7 +19,8 @@ package(
         color="f1a2b3",
         description="'The secret to getting ahead is getting started.' – Mark Twain.",
         input_class=Bot,
-     )
+     ),
+    requirements=["supermemo2"],
 )
 
 bot_uid = upload_and_deploy(
