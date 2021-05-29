@@ -2,8 +2,8 @@ from chai_py import Metadata, package, upload_and_deploy, wait_for_deployment
 from chai_py import share_bot, set_auth
 from bot import Bot
 
-DEVELOPER_UID = None # Fill these in using the values from https://chai.ml/dev
-DEVELOPER_KEY = None # Fill these in using the values from https://chai.ml/dev
+DEVELOPER_UID =  # Fill these in using the values from https://chai.ml/dev
+DEVELOPER_KEY =  # Fill these in using the values from https://chai.ml/dev
 
 if DEVELOPER_KEY is None or DEVELOPER_UID is None:
     raise RuntimeError("Please fetch your UID and KEY from the bottom of the Chai Developer Platform. https://chai.ml/dev")
